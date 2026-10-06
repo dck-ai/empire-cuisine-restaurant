@@ -147,7 +147,7 @@ export default function Footer() {
           <div className="flex gap-6 md:flex items-center justify-center text-(--bg3)">
             <div className="flex  md:flex-row items-center gap-4">
               <Link
-                href="https://www.facebook.com/profile.php?id=61555584206586&sk=about"
+                href="https://www.facebook.com/EmpireCuisineRestaurant"
                 target="_blank"
               >
                 <LiaFacebook size={30} />
