@@ -103,7 +103,7 @@ export default function Footer() {
             </span>
           </div>
           <Link
-            href="https://wa.me/15559202436"
+            href="https://wa.me/60122248811"
             target="_blank"
             className="inline-flex items-center gap-2 bg-transparent border border-(--bg2) text-(--bg2) text-xs uppercase tracking-[2px] py-2.5 px-4 hover:bg-(--bg3) hover:text-white transition-all duration-300 rounded-sm"
           >

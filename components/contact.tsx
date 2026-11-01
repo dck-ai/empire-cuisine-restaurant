@@ -35,7 +35,7 @@ Message:
 ${form.message}`;
 
     const encoded = encodeURIComponent(msg);
-    window.open(`https://wa.me/15559202436?text=${encoded}`, "_blank");
+    window.open(`https://wa.me/60122248811?text=${encoded}`, "_blank");
   };
 
   const contactCards = [
@@ -46,7 +46,7 @@ ${form.message}`;
       chinese: "预约订位",
       icon: <FaWhatsapp />,
       cta: "WhatsApp Now",
-      href: "https://wa.me/15559202436?text=I%20would%20like%20to%20make%20a%20reservation",
+      href: "https://wa.me/60122248811?text=I%20would%20like%20to%20make%20a%20reservation",
       style: "bg-(--bg2)",
     },
     {
@@ -66,7 +66,7 @@ ${form.message}`;
       chinese: "婚宴活动",
       icon: <MdCelebration />,
       cta: "Enquire Now",
-      href: "https://wa.me/15559202436?text=I%20would%20like%20to%20enquire%20about%20weddings%20and%20events",
+      href: "https://wa.me/60122248811?text=I%20would%20like%20to%20enquire%20about%20weddings%20and%20events",
       style: "bg-(--bg2)",
     },
     {
@@ -76,7 +76,7 @@ ${form.message}`;
       chinese: "贵宾包厢",
       icon: <MdOutlineBedroomChild />,
       cta: "Enquire Now",
-      href: "https://wa.me/15559202436?text=I%20would%20like%20to%20enquire%20about%20VIP%20rooms",
+      href: "https://wa.me/60122248811?text=I%20would%20like%20to%20enquire%20about%20VIP%20rooms",
       style: "bg-(--bg3)",
     },
     {

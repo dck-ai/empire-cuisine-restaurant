@@ -162,7 +162,7 @@ export default function VipRooms() {
 
           <div className="flex flex-col sm:flex-row gap-3 mt-6">
             <Link
-              href={`https://wa.me/15559202436?text=I%20would%20like%20to%20enquire%20about%20VVIP8%20room`}
+              href={`https://wa.me/60122248811?text=I%20would%20like%20to%20enquire%20about%20VVIP8%20room`}
               target="_blank"
               className="px-5 py-3 bg-(--bg2) text-white rounded-lg hover:bg-red-800 hover:scale-105 transition duration-300 text-sm text-center"
             >
@@ -218,7 +218,7 @@ export default function VipRooms() {
           data-aos="fade-up"
         >
           <Link
-            href={`https://wa.me/15559202436?text=I%20would%20like%20to%20enquire%20about%20VIP%20Rooms`}
+            href={`https://wa.me/60122248811?text=I%20would%20like%20to%20enquire%20about%20VIP%20Rooms`}
             target="_blank"
             className="px-6 py-3 bg-(--bg2) text-white rounded-lg hover:bg-red-800 hover:scale-105 transition duration-300 text-sm md:text-base text-center"
           >
