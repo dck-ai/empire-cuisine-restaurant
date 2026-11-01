@@ -56,7 +56,7 @@ ${form.message}`;
       chinese: "来电咨询",
       icon: <FaPhoneAlt />,
       cta: "012-224 8811",
-      href: "tel:+15559202436",
+      href: "tel:+60122248811",
       style: "bg-(--bg3)",
     },
     {
